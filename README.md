@@ -1,0 +1,2 @@
+# LDAwithGPT-2
+通过LDA对歌词进行主题分析并添加主题标签finetuneGPT-2散文模型得到说唱歌词创作
